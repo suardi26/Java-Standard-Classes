@@ -4,7 +4,7 @@
 
 - Pada project ini ada beberapa class yang biasanya digunakan pada pemrograman java.
 
-- Untuk detail dokumentasi class-class pada java dapat dikunjungi pada [All Classes and Interfaces (Java SE 17 & JDK 17)](https://docs.oracle.com/en/java/javase/17/docs/api/allclasses-index.html)
+- Untuk detail dokumentasi class-class pada java dapat dikunjungi pada [All Classes dan Interfaces (Java SE 17 & JDK 17)](https://docs.oracle.com/en/java/javase/17/docs/api/allclasses-index.html)
 
 ### Software :
 
