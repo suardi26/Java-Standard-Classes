@@ -1,10 +1,10 @@
 ## Java-Standard-Classes
 
-- Ada Banyak sekali Class-Class Standard yang disediakan oleh java.
+- <samp>Ada Banyak sekali Class-Class Standard yang disediakan oleh java.</samp>
 
-- Pada project ini ada beberapa class yang biasanya digunakan pada pemrograman java.
+- <samp>Pada project ini ada beberapa class yang biasanya digunakan pada pemrograman java.</samp>
 
-- Untuk detail dokumentasi class-class pada java dapat dikunjungi pada [All Classes dan Interfaces (Java SE 17 & JDK 17)](https://docs.oracle.com/en/java/javase/17/docs/api/allclasses-index.html)
+- <samp>Untuk detail dokumentasi class-class pada java dapat dikunjungi pada [All Classes dan Interfaces (Java SE 17 & JDK 17).](https://docs.oracle.com/en/java/javase/17/docs/api/allclasses-index.html)</samp>
 
 ### Software :
 
