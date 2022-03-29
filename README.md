@@ -4,6 +4,8 @@
 
 - Pada project ini ada beberapa class yang biasanya digunakan pada pemrograman java.
 
+- Untuk detail dokumentasi class-class pada java dapat dikunjungi pada [All Classes and Interfaces (Java SE 17 & JDK 17)](https://docs.oracle.com/en/java/javase/17/docs/api/allclasses-index.html)
+
 ### Software :
 
   - <a href="https://www.apachefriends.org/download.html" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xampp.svg" height="30" width="30" />&nbsp;&nbsp;&nbsp;XAMPP Version: 7.4.14.</a>
