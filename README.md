@@ -2,7 +2,7 @@
 
 - Ada Banyak sekali Class-Class Standard yang disediakan oleh java.
 
-- Pada project ini ada beberapa class yang biasanya digunakna pada pemrograman java.
+- Pada project ini ada beberapa class yang biasanya digunakan pada pemrograman java.
 
 ### Software :
 
