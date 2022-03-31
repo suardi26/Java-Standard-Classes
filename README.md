@@ -1,4 +1,4 @@
-## Java-Standard-Classes
+## Java Standard Classes
 
 - <samp>Ada Banyak sekali Class-Class Standard yang disediakan oleh java.</samp>
 
